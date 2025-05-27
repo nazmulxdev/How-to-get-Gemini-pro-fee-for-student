@@ -6,7 +6,7 @@
 (note: this feature is only for the USA region)
 ###To get unlimited account you need to just follow this steps.(note:)
 
-- 1. If you are using laptop or pc, the go to search bar and search setup vpn extension and add this extention in your web browser.
+- 1. If you are using laptop or pc, then go to search bar and search setup vpn extension and add this extention in your web browser.
 - 2. Then set up your extension and add you location as united states.
 - 3. After set up your location or region open browser manage extension option and click the details button of the vpn extension and enable private mode or incognito mode.
 - 4. Then open a private tab or incognito tab and go to the following link : https://one.google.com/join/ai-student
