@@ -3,7 +3,8 @@
 ## To get gemini pro version for student free you have to follow some steps.
 
 ## Steps:
-(note: this feature is only for the USA region)
+note: this feature is only for the USA region. But, if you follow and do the steps properly you can get it free from any where.
+
 ###To get unlimited account you need to just follow this steps.(note:)
 
 - 1. If you are using laptop or pc, then go to search bar and search setup vpn extension and add this extention in your web browser.
