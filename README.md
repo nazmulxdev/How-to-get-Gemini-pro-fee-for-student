@@ -3,7 +3,7 @@
 ## To get gemini pro version for student free you have to follow some steps.
 
 ## Steps:
-note: this feature is only for the USA region. But, if you follow and do the steps properly you can get it free from any where.By following this steps , you can make gemini in pro version fro unlimited email. 
+note: this feature is only for the USA region. But, if you follow and do the steps properly you can get it free from any where.By following this steps , you can make gemini in pro version free from unlimited email account. 
 
 
 - 1. If you are using laptop or pc, then go to search bar and search setup vpn extension and add this extention in your web browser.
